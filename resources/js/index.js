@@ -1,9 +1,12 @@
 $(function(){
     var treeView = $("#treeview").dxTreeView({
-        items: productos,
+        items: archivos,
         width: "60%",
         height: "80%",
-        searchEnabled:true
+        searchEnabled:true,
+        searchEditorOptions: {
+            placeholder: "buscar"
+        }
     }).dxTreeView("instance");
 
     $("#searchMode").dxSelectBox({

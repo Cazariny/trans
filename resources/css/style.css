@@ -1,16 +1,20 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
+.dx-theme-generic-typography {
+  background-color: #f1f1f1;
+}
 
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+
 }
 
 #treeview {
   height: 50%;
   position: fixed;
-  width: 100%
+  width: 100%;
   left: 25%;
 }
 

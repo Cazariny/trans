@@ -8,14 +8,14 @@ var productos = [{
         expanded: true,
         items: [{
             id: "1_1_1",
-            text: "2013",
+            html: "<h4 style='color:darkred'> 2013 </h4>",
             items: [{
                 id: "1_1_1_1",
                 text: "Publicaciones Iniciales",
                 items: [{
                   id: "1_1_1_1_1",
-                  text: "Presupuesto de Egresos",
-                  html: "<button><a target='_blank' href='resources/documentos/2013/win.txt'> VER</a></button> "
+                  text: "Normatividad aplicable",
+                  html: "<span style='color: darkred;'> Fraccion 1 >></span>"
                 }, {
                   id: "1_1_1_1_2",
                   text: "Plantilla de Personal",
