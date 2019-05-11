@@ -22,6 +22,7 @@ body {
   width: 100%
 }
 
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -47,6 +48,13 @@ body {
   width: auto;
 }
 
+.navbar a:hover {
+  color: #c03d20;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
