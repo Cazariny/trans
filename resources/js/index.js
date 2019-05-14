@@ -1,7 +1,7 @@
 $(function(){
     var treeView = $("#treeview").dxTreeView({
         items: archivos,
-        width: "60%",
+        width: "52%",
         height: "80%",
         searchEnabled:true,
         searchEditorOptions: {
