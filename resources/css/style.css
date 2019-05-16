@@ -32,6 +32,14 @@ body {
   right: 0;
   left: 0;
   z-index: 20;
+  height: auto;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -58,14 +66,13 @@ body {
 }
 
 .navbar{
-width: 986px;
+  width: 85%;
 }
 
 .banner{
-  background: top center no-repeat;
-  background-image: url("../img/bg_header.png");
+  background: top center no-repeat url("../img/bg_header.png");
   height: 144px;
-  width: 986px;
+  width: 970px;
 }
 
 .banner img {
@@ -80,6 +87,7 @@ width: 986px;
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -89,16 +97,15 @@ width: 986px;
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #777;
+  background-color: #d04526;;
 }
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
-}
-
+/*.carousel-inner > .item > img {*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*  min-width: 100%;*/
+/*  height: 500px;*/
+/*}*/
 /* .hidden{
   visibility: hidden;
 } */
@@ -139,6 +146,29 @@ width: 986px;
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+
+@media (max-width: 800px){
+  .container .banner{
+    background: #f1f1f1;
+    text-align: center;
+    width: 100%;
+  }
+
+  .banner #escudo {
+    padding: 0;
+    text-align: center;
+  }
+
+  .navbar {
+    width: 100%;
+    height: 10%;
+    color: white;
+  }
+  .nav {
+
+  }
+}
+
 
 @media (min-width: 768px) {
   /* Navbar positioning foo */
