@@ -406,15 +406,15 @@ var archivos= [{
             }, {
                 id: "1_1_2_20",
                 text: "Disposiciones Administrativas",
-                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/' ><span style='color: darkred;'> Fracción I.G >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/103.-Disposiciones-administrativas.xlsx' ><span style='color: darkred;'> Fracción I.G >> </span></a>"
             }, {
                 id: "1_1_2_21",
                 text: "Origen y aplicación de recursos de cada una de sus dependencias.",
-                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/103.-Disposiciones-administrativas.xlsx' ><span style='color: darkred;'> Fracción I.H >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/104.-El-origen-y-aplicacion-de-los.xlsx' ><span style='color: darkred;'> Fracción I.H >> </span></a>"
             }, {
                 id: "1_1_2_22",
                 text: "La glosa del informe que presenta al congreso.",
-                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/104.-El-origen-y-aplicacion-de-los.xlsx' ><span style='color: darkred;'> Fracción I.I >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2018/articulo-36/105.-La-glosa-del-informe-que-pres.xlsx' ><span style='color: darkred;'> Fracción I.I >> </span></a>"
             }, {
                 id: "1_1_2_23",
                 text: "Las transferencias presupuestales autorizadas por el gobernador del estado.",
@@ -750,7 +750,7 @@ var archivos= [{
             },{
                 id: "1_3_1_10",
                 text: "Endeudamiento Neto",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Articulos 48 y 51 </span></a>"
+                 html: "<a target='_blank' href='' ><span style='color: darkred;'> Articulos 48 y 51 </span></a>"
             },{
                 id: "1_3_1_11",
                 text: "Intereses de la Deuda",
@@ -1210,7 +1210,7 @@ var archivos= [{
             items: [{
                 id: "2_1_1_1",
                 text: "Normatividad aplicable.",
-                html: "<a target='_blank' href=''  ><span style='color: darkred;'> Fracción I >> </span></a>",
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Normatividad-aplicable.xlsx'  ><span style='color: darkred;'> Fracción I >> </span></a>",
             }, {
                 id: "2_1_1_2",
                 text: "Estructura Orgánica.",
@@ -1282,11 +1282,11 @@ var archivos= [{
             }, {
                 id: "2_1_1_19",
                 text: "Normatividad laboral (Condiciones generales de trabajo y sindicatos).",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XVI.A >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Normatividad-laboral.xlsx' ><span style='color: darkred;'> Fracción XVI.A >> </span></a>"
             }, {
                 id: "2_1_1_20",
                 text: "Recursos públicos entregados (Condiciones generales de trabajo y sindicatos).",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XVI.B >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Recursos-publicos-entregados-.xlsx' ><span style='color: darkred;'> Fracción XVI.B >> </span></a>"
             }, {
                 id: "2_1_1_21",
                 text: "Información curricular de servidores públicos.",
@@ -1306,19 +1306,19 @@ var archivos= [{
             }, {
                 id: "2_1_1_25",
                 text: "Presupuesto asignado anual.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXI.A >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Presupuesto-asignado-anual.xlsx' ><span style='color: darkred;'> Fracción XXI.A >> </span></a>"
             }, {
                 id: "2_1_1_26",
                 text: "Ejercicio de los egresos presupuestarios.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XX1.B >> </span></a>"
+                html: "<a target='_blank' href='href='resources/documentos/2019/1er/articulo-35/Ejercicio-de-los-egresos-pres.xlsx' ><span style='color: darkred;'> Fracción XX1.B >> </span></a>"
             }, {
                 id: "2_1_1_27",
                 text: "Cuenta pública.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXI.C >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Cuenta-publica.xlsx' ><span style='color: darkred;'> Fracción XXI.C >> </span></a>"
             }, {
                 id: "2_1_1_28",
                 text: "Deuda pública.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXII >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Deuda-Publica.xlsx' ><span style='color: darkred;'> Fracción XXII >> </span></a>"
             }, {
                 id: "2_1_1_29",
                 text: "Utilización de los Tiempos Oficiales en radio y tv.",
@@ -1338,11 +1338,11 @@ var archivos= [{
             }, {
                 id: "2_1_1_33",
                 text: "Resultado de auditorías.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXIV >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Resultados-de-auditorias-real.xlsx' ><span style='color: darkred;'> Fracción XXIV >> </span></a>"
             }, {
                 id: "2_1_1_34",
                 text: "Resultados de la dictaminación de estados financieros.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXV >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Resultados-de-la-dictaminacio.xlsx' ><span style='color: darkred;'> Fracción XXV >> </span></a>"
             }, {
                 id: "2_1_1_35",
                 text: "Personas físicas y morales que se les asigna recursos públicos.",
@@ -1370,11 +1370,11 @@ var archivos= [{
             }, {
                 id: "2_1_1_41",
                 text: "Gasto por capítulo, concepto y partida.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXX.A >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Gasto-por-Capitulo-Concepto-y.xlsx' ><span style='color: darkred;'> Fracción XXX.A >> </span></a>"
             }, {
                 id: "2_1_1_42",
                 text: "Informe financiero(Informes financieros contables, presupuestales y programáticos).",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XXX.B >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Informes-financieros-contable.xlsx' ><span style='color: darkred;'> Fracción XXX.B >> </span></a>"
             }, {
                 id: "2_1_1_43",
                 text: "Padrón de proveedores y contratistas.",
@@ -1482,7 +1482,7 @@ var archivos= [{
             }, {
                 id: "2_1_1_69",
                 text: "Ingresos recibidos.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción XLI.C >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-35/Ingresos-recibidos-por-cualqu.xlsx' ><span style='color: darkred;'> Fracción XLI.C >> </span></a>"
             }, {
                 id: "2_1_1_70",
                 text: "Responsables de recibir, administrar y ejercer los ingresos.",
@@ -1534,15 +1534,15 @@ var archivos= [{
             }, {
                 id: "2_1_2_2",
                 text: "Hipervínculo al Plan Nacional de Desarrollo.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.A.2 >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/Plan-de-Desarrollo--Nacional-.xlsx' ><span style='color: darkred;'> Fracción I.A.2 >> </span></a>"
             }, {
                 id: "2_1_2_3",
                 text: "Presupuesto de egresos.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.B.1 >> </span></a>"
+                html: "<a target='_blank' href='href='resources/documentos/2019/1er/articulo-36/Presupuesto-de-egresos.xlsx' ><span style='color: darkred;'> Fracción I.B.1 >> </span></a>"
             }, {
                 id: "2_1_2_4",
                 text: "Egresos y fórmulas de distribución de los recursos.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.B.2 >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/Egresos-y-formulas-de-distrib 2019.xlsx' ><span style='color: darkred;'> Fracción I.B.2 >> </span></a>"
             }, {
                 id: "2_1_2_5",
                 text: "Expropiaciones realizadas.",
@@ -1610,7 +1610,7 @@ var archivos= [{
             }, {
                 id: "2_1_2_21",
                 text: "Origen y aplicación de recursos de cada una de sus dependencias.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.H >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/El-origen-y-aplicacion-de-los.xlsx' ><span style='color: darkred;'> Fracción I.H >> </span></a>"
             }, {
                 id: "2_1_2_22",
                 text: "La glosa del informe que presenta al congreso.",
@@ -1618,23 +1618,23 @@ var archivos= [{
             }, {
                 id: "2_1_2_23",
                 text: "Las transferencias presupuestales autorizadas por el gobernador del estado.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.J >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/Las-transferencias-presupuest.xlsx' ><span style='color: darkred;'> Fracción I.J >> </span></a>"
             }, {
                 id: "2_1_2_24",
                 text: "El presupuesto de egresos y las fórmulas de distribución de los recursos otorgados.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.K >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/El-presupuesto-de-egresos-y-l.xlsx' ><span style='color: darkred;'> Fracción I.K >> </span></a>"
             }, {
                 id: "2_1_2_25",
                 text: "Los montos de endeudamiento y el ejercicio que se haya hecho de dicha deuda.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción I.L.1 >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/Los-montos-de-endeudamiento-y.xlsx' ><span style='color: darkred;'> Fracción I.L.1 >> </span></a>"
             }, {
                 id: "2_1_2_26",
                 text: "Contenido de Gacetas Municipales.",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción II.A.1 >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/El-contenido-de-las-gacetas-m.xlsx' ><span style='color: darkred;'> Fracción II.A.1 >> </span></a>"
             }, {
                 id: "2_1_2_27",
                 text: "Hipervínculo Gacetas Municipales",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Fracción II.A.2 >> </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/articulo-36/Hipervinculo-a-las-gacetas-mu.xlsx' ><span style='color: darkred;'> Fracción II.A.2 >> </span></a>"
             }, {
                 id: "2_1_2_28",
                 text: "Calendario de sesiones del cabildo",
@@ -2399,4 +2399,3 @@ var archivos= [{
         }]
     }]
 }]
-
