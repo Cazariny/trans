@@ -1766,7 +1766,7 @@ var archivos= [{
             },{
                 id: "2_2_1_5",
                 text: "Notas a los Estados Financieros",
-                html: "<a target='_blank' href='' ><span style='color: darkred;'> Articulos 48 y 51 </span></a>"
+                html: "<a target='_blank' href='resources/documentos/2019/1er/Notas-a-los-estados-financieros-de-la-cuenta-publica-primer-trimestre-2019' ><span style='color: darkred;'> Articulos 48 y 51 </span></a>"
             },{
                 id: "2_2_1_6",
                 text: "Estado Analitico del Activo",
